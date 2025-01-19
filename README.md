@@ -2,7 +2,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =============================================================================================================================
 
 * 🌍  I'm based in Bishkek, Kyrgyzstan
-* 🧠  I'm learning Nextjs
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
